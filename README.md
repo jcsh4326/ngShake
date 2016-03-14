@@ -22,7 +22,7 @@ then you can use bower to install cngShake by
 you need to refrence ngShake.js, it usually located in
  > lib/cngShake/www/ngShake.js
  
- ## Example ##
+## Example ##
  
     var onShake = function () {
         // Fired when a shake is detected
