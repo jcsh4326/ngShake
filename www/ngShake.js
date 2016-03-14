@@ -142,7 +142,7 @@ angular.module('me.chaos.cordovaPlugins',[])
             promise = $timeout(function () {
                 $timeout.cancel(promise)
                 promise = null;
-            }, limit||2000);
+            }, limit||750);
 
             onShake();
         };
