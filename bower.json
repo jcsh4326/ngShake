@@ -1,0 +1,27 @@
+{
+  "name": "ngShake",
+  "description": "Cordova Plugin to judgin wheter the device is shaking",
+  "main": "www/ngShake.js",
+  "authors": [
+    "瑾诚 <jincheng.jcs@gmail.com> (http://jcis.me/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "cordova",
+    "AngularJs",
+    "shake",
+    "accelerometer",
+    "acceleration",
+    "detection",
+    "ecosystem:cordova"
+  ],
+  "homepage": "https://github.com/jcsh4326/ngShake",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

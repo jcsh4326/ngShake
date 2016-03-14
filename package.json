@@ -1,0 +1,31 @@
+{
+  "name": "ngShake",
+  "version": "0.5.3",
+  "author": "瑾诚 <jincheng.jcs@gmail.com> (http://jcis.me/)",
+  "description": "Cordova Plugin to judgin wheter the device is shaking",
+  "cordova": {
+    "id": "ngShake",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcsh4326/ngShake.git"
+  },
+  "keywords": [
+    "cordova",
+    "AngularJs",
+    "shake",    
+    "accelerometer",
+    "acceleration",
+    "detection",
+    "ecosystem:cordova"
+  ],
+  "engines": [
+      {
+      "name": "cordova",
+      "version": ">=5.0.0"
+    }
+  ],
+  "license": "MIT",  
+  "homepage": "https://github.com/jcsh4326/ngShake#readme"
+}
