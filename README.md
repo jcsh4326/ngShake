@@ -1,0 +1,2 @@
+# ngShake
+Cordova Angular  Ionic
