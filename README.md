@@ -19,7 +19,7 @@ then you can use bower to install cngShake by
 
 ## Usage ##
 
-you need to refrence ngShake.js, it usually located in
+you need to reference ngShake.js, it usually located in
  > lib/cngShake/www/ngShake.js
  
 ## Example ##
